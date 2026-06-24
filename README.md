@@ -136,3 +136,8 @@ python3 analyzer.py
 - AI/LLM integration
 - MITRE ATT&CK mapping
 - Cybersecurity workflow automation
+
+
+## Example Output
+
+![AI Incident Report](screenshots/screenshot.png)
