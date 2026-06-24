@@ -15,7 +15,6 @@ You are a cybersecurity SOC analyst.
 
 Analyze these logs.
 
-Provide:
 
 Provide:
 
